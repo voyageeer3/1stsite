@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&family=Questrial&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Fuzzy Bubbles', cursive;
+}
+/* Первая страница */
+.main-content {	
+
+background-color: #222020;
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+.zagolovok {
+	color: white;
+	font-family: 'Fuzzy Bubbles', cursive;
+	margin-bottom: 30px;
+	font-size: 50px;
+}
+
+.container1 {
+	display: flex;
+	font-family: 'Fuzzy Bubbles', cursive;
+}
+
+p {
+	margin-left: 20px;
+}
+
+.btn1 {
+	background-color:#2f1ce4;
+	padding: 20px;
+	border: 3px white;
+	text-decoration: none;
+}
+
+.main-content a {
+	color: white;
+	text-decoration: none;
+}
+
+.main-content a:hover {
+	text-decoration: underline;
+	color: yellow;
+}
+
+
+.btn2 {
+	padding: 20px;
+	background-color: transparent;
+	border: 3px solid white;
+}
+

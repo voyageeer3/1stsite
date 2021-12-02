@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&family=Questrial&display=swap');
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.container {
+	max-width: 1170px;
+	padding: 30px 30px;
+	margin: 0 auto;
+	font-family: 'Fuzzy Bubbles', cursive;
+}
+
+h1 {
+	margin-top: 100px;
+	padding-left: 100px;
+	font-size: 48px;
+	color: #222020;
+}
+h2 {
+	padding-left: 180px;
+	font-size: 36px;
+	color: blue;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.table {
+	padding-left: 200px;
+	font-size: 18px;
+}
+
+p {
+	padding-left: 180px;
+	margin-bottom: 20px;
+}
+
+.kartinka {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	display: inline-block;
+	font-size: 25px;
+	color:black;
+
+}
+
+h3 {
+	text-align: center;
+	padding-left: 180px;
+	font-size: 36px;
+	color: rgb(0, 0, 247);
+	margin-top: 100px;
+	margin-bottom: 25px;
+}
+ 
+table {
+	border-collapse: collapse;
+	border-spacing: 10px;
+	margin-top: 50px;
+	width: 120%;
+}
+
+.zhaba {
+	max-width: 1000px;
+}
+
+td, 
+tr,
+th {
+	border: 1px solid grey;
+	padding: 15px;
+ }
+
+.nazad {
+	width: 100px;
+	vertical-align: middle;	
+	margin-left: 100px;
+	margin-right: 30px;
+}
+
+.knopka {
+	color:brown;
+	text-decoration: none;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.knopka:hover {
+	color: black;
+}
+
+.teg {
+text-decoration: none;
+color: blue
+}
+
+.teg:hover {
+	color:brown;
+	text-decoration: underline;
+}
